@@ -1,0 +1,27 @@
+387|CD4:CD8 T Cell Ratio|CD4:CD8 T Cell Helper/T Cell Suppressor Ratio|CD4:CD8 Test|General Test|20607-8
+422|HIV1 AB Interp|HIV1 Antibody Interpretation|HIV1 Test|Pathogen Specific Test|44607-0
+424|HIV1 AB Wblot|HIV1 Antibody Western Blot|HIV1 Test|Pathogen Specific Test|5221-7
+2091|Granulocyte AB|Granulocyte Antibody|Granulocyte Test|General Test|5171-4
+2136|GC DNA Amp Urine|Neisseria gonorrhoeae DNA Amp Qualitative Urine|GC Test, Urine|Pathogen Specific Test|21416-3
+2171|5-Aminolevulinic Acid, U|5-Aminolevulinic Acid, Urine|General Test, Urine|General Test|11215-1
+2214|Erythropoietin|Erythropoietin|General Test|General Test|2237-6
+2223|Factor VII Assay|Factor VII Assay|Factor Test|General Test|3198-9
+2234|Homocystine, Urine|Homocystine, Urine|General Test, Urine|General Test|2431-5
+3490|Castor Bean AB IgE RAST Ql|Castor Bean Antibody IgE RAST (Ricinus communis)|Allergy Test|Allergy Test|15562-2
+3522|Cayenne AB IgG mCnc|Cayenne Antibody IgG mCnc|Allergy Test|Allergy Test|63082-2
+3532|Cefamandole LR mCnc|Cefamandole triggered leukotriene release Leukocytes|Allergy Test|Allergy Test|48269-5
+3551|Cephalospor Mold AB IgE|Cephalosporine mold Antibody IgE|Allergy Test|Allergy Test|7199-3
+3692|C herbarum AB IgG|Cladosporium herbarum Antibody IgG|Allergy Test|Allergy Test|7230-6
+3752|Cocklebur AB IgG mCnc|Cocklebur Antibody IgG (Xanthium commune) mCnc|Allergy Test|Allergy Test|63188-7
+5161|Oyster AB IgE RAST Ql|Oyster Antibody IgE RAST (Ostrea edulis)|Allergy Test|Allergy Test|15899-8
+5233|Parrot Feather AB IgG4 mCnc|Parrot feather IgG4 Antibody|Allergy Test|Allergy Test|56347-8
+5345|Pepsin AB IgE|Pepsin Antibody IgE|Allergy Test|Allergy Test|26044-8
+7316|Lyme disease 83/93kD IgM CSF Qual IB|Lyme disease (Borrelia burgdorferi) 83/93kD Antibody IgM Qualitative CSF Immunoblot (IB)|Lyme Disease Test|Pathogen Specific Test|49998-8
+7411|Lyme disease DNA CSF Qual Amp Probe|Lyme disease (Borrelia burgdorferi) DNA Qualitative CSF Probe with Amplification|Lyme Disease Test|Pathogen Specific Test|11551-9
+7424|Lyme disease Unk Qual Cult|Lyme disease (Borrelia burgdorferi) Qualitative Unspecified Specimen Organism Culture|Lyme Disease Test|Pathogen Specific Test|11550-1
+7441|Strep pneumo AB 23 Ser Quant|Streptococcus pneumoniae 23 Antibody Quantitative Serum|Strep pneumo Test|Pathogen Specific Test|26681-7
+7490|Strep pneumo AB Ser Qual|Streptococcus pneumoniae Antibody Qualitative Serum|Strep pneumo Test|Pathogen Specific Test|8030-9
+7522|T pallidum IgM Ser IF Quant|Syphilis (Treponema pallidum) Antibody IgM Quantitative Serum Immunofluorescence|Syphilis Test|Pathogen Specific Test|17728-7
+7637|Arsenic Urine 24 hr|Arsenic Mass/Time 24 hr Urine|Arsenic Test|Heavy Metal Test|5587-1
+7686|Cadmium RBC Quant|Cadmium Quantitative Red Blood Cells|Cadmium Test|Heavy Metal Test|12505-4
+7706|COHgb Bld Qual Scn|Carboxyhemoglobin Qualitative Blood Screen Method|Carboxyhemoglobin Test|General Test|32160-4
